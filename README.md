@@ -5,4 +5,4 @@ Module 1
 
 
 Module 2
-=>Self Evaluation, Linkedin Profile And Resume Builder : https://www.linkedin.com/in/mayur-bhaliya-530004289
+=>Self Evaluation, Linkedin Profile And Resume Builder : https://www.linkedin.com/in/mayur-bhaliya-530004289/
